@@ -10,6 +10,7 @@ public class MoodAnalyser {
             return "SAD";
         } else {
             return "HAPPY";
+
         }
     }
 }
