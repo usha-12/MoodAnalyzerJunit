@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="145ff55e-c996-49ae-90a5-e07cf6b49c59" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/src/main/java/com/brideglabz/moodanalyser/MoodAnalyser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/brideglabz/moodanalyser/MoodAnalyser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/brideglabz/moodanalyser/MoodAnalyzerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/brideglabz/moodanalyser/MoodAnalyzerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
